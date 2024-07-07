@@ -26,7 +26,7 @@ setup(
         'pedalboard==0.9.6',
         'prefigure==0.0.9',
         'pytorch_lightning==2.1.0', 
-        'PyWavelets==1.4.1',
+        'PyWavelets==1.5.0',
         'safetensors',
         'sentencepiece==0.1.99',
         's3fs',
